@@ -43,13 +43,12 @@ While my main focus is backend, I also build **fullstack projects** combining Re
 ---
 
 ## 📊 GitHub Stats
-<a>
-  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pandore10&show_icons=true&theme=radical" alt="Pandore10 GitHub Stats" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pandore10&theme=radical&layout=donut" />
-</a>
----
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pandore10&show_icons=true&theme=radical&hide_border=true" alt="Pandore10 GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pandore10&theme=radical&layout=donut&hide_border=true" alt="Pandore10 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pandore10&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 <!--## 🚀 Featured Projects
 - [Project 1](link): Short description (e.g., "REST API built with Node.js, Express, and PostgreSQL").  
@@ -64,8 +63,13 @@ While my main focus is backend, I also build **fullstack projects** combining Re
 ---
 
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/felipe-menezes-91b3ba262)  
-- [Email](mailto:lipefmenezes@gmail.com)  
+<div>
+  <a href="https://www.linkedin.com/in/felipe-menezes-91b3ba262">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=0077B5&labelColor=232c2b2e" />
+  </a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/lipefmenezes%40gmail.com-eeeeee?style=for-the-badge&logoColor=0077B5&label=EMAIL&labelColor=232c2b2e">
+</div>
+
 <!--
 **Pandore10/Pandore10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
