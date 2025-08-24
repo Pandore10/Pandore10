@@ -8,14 +8,38 @@ I'm a **Backend Developer** passionate about building scalable applications and 
 While my main focus is backend, I also build **fullstack projects** combining React, Node.js, and PostgreSQL.
 -->
 ---
-<div>
 ## 🛠 Tech Stack
-- **Languages:**   
-- **Backend:** Node.js, Express.js  
-- **Database:** PostgreSQL, MySQL
-- **Frontend:** React, HTML, CSS  
-- **Tools:** Git
-</div>
+- **Languages:**
+  <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoSize=auto&labelColor=%232c2b2e">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java-f24900?style=for-the-badge&logo=openjdk&logoColor=%23f24900&logoSize=auto&labelColor=%232c2b2e">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=%233776AB&logoSize=auto&labelColor=%232c2b2e">
+  </div>
+
+- **Backend:**
+  <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=5FA04E&logoSize=auto&labelColor=%232c2b2e">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=000000&logoSize=auto&labelColor=%232c2b2e">
+  </div>
+
+- **Database:**
+  <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&logoSize=auto&labelColor=%232c2b2e">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=4479A1&logoSize=auto&labelColor=%232c2b2e">
+  </div>
+
+- **Frontend:**
+  <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&logoSize=auto&labelColor=%232c2b2e">
+    <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&logoSize=auto&labelColor=%232c2b2e">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=663399&logoSize=auto&labelColor=%232c2b2e">
+  </div>
+
+- **Tools:**
+  <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=F05032&logoSize=auto&labelColor=%232c2b2e">
+  </div>
+
 ---
 
 ## 📊 GitHub Stats
