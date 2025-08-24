@@ -43,9 +43,12 @@ While my main focus is backend, I also build **fullstack projects** combining Re
 ---
 
 ## 📊 GitHub Stats
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandore10&show_icons=true&theme=radical&rank_icon=github)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandore10&layout=compact&theme=radical)
-
+<a>
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pandore10&show_icons=true&theme=radical" alt="Pandore10 GitHub Stats" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pandore10&theme=radical&layout=donut" />
+</a>
 ---
 
 <!--## 🚀 Featured Projects
