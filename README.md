@@ -58,7 +58,7 @@ While my main focus is backend, I also build **fullstack projects** combining Re
 ---
 
 ## 🎯 Currently Learning
-- Java + Spring on the Santander 2024 bootcamp on DIO
+- Java + Spring (Santander 2024 bootcamp @ DIO)
 
 ---
 
