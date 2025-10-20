@@ -1,8 +1,9 @@
 # Hi there, I'm Felipe 👋
 
-I'm a beginner developer striving to be a **backend developer**.
-While my focus is backend, I also build **fullstack projects** combining React, Node.js, and PostgreSQL.
+I'm a **full stack developer in training**, passionate about building complete applications and learning new technologies.
+I work with technologies like **React, Node.js, and PostgreSQL**, and I'm constantly improving my skills to create efficient, well-structured, and scalable solutions.
 
+<!--
 <!--
 I'm a **Backend Developer** passionate about building scalable applications and working with databases.  
 While my main focus is backend, I also build **fullstack projects** combining React, Node.js, and PostgreSQL.
